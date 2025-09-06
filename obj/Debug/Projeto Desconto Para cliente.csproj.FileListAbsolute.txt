@@ -1,0 +1,8 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos em c#\Projeto Desconto Para cliente\Projeto Desconto Para cliente\bin\Debug\Projeto Desconto Para cliente.exe.config
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos em c#\Projeto Desconto Para cliente\Projeto Desconto Para cliente\bin\Debug\Projeto Desconto Para cliente.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos em c#\Projeto Desconto Para cliente\Projeto Desconto Para cliente\bin\Debug\Projeto Desconto Para cliente.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos em c#\Projeto Desconto Para cliente\Projeto Desconto Para cliente\obj\Debug\Projeto Desconto Para cliente.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos em c#\Projeto Desconto Para cliente\Projeto Desconto Para cliente\obj\Debug\Projeto Desconto Para cliente.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos em c#\Projeto Desconto Para cliente\Projeto Desconto Para cliente\obj\Debug\Projeto Desconto Para cliente.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos em c#\Projeto Desconto Para cliente\Projeto Desconto Para cliente\obj\Debug\Projeto Desconto Para cliente.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Projetos em c#\Projeto Desconto Para cliente\Projeto Desconto Para cliente\obj\Debug\Projeto Desconto Para cliente.exe.config
